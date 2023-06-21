@@ -1,0 +1,87 @@
+@keyframes backgroundAnimation {
+    0% {
+      background-color: #c6d7f5; 
+    }
+    50% {
+      background-color: #abdbf2; 
+    }
+    100% {
+      background-color: #bed6f7; 
+    }
+  }
+  
+  .favorites-container {
+    margin-top: 20px;
+    animation: backgroundAnimation 5s infinite;
+  }
+  
+  .favorite-photo {
+    position: relative;
+    overflow: hidden;
+  }
+  
+  .favorite-photo img {
+    width: 100%;
+    height: auto;
+    transition: transform 0.3s, box-shadow 0.3s;
+  }
+  
+  .favorite-photo:hover img {
+    transform: scale(1.05);
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+  }
+  
+  .close-button {
+    position: absolute;
+    top: 5px;
+    right: 5px;
+  }
+  
+  @keyframes spin-away {
+    0% {
+      transform: rotate(0deg);
+      opacity: 1;
+    }
+    100% {
+      transform: rotate(360deg);
+      opacity: 0;
+    }
+  }
+  
+  @-webkit-keyframes spin-away {
+    0% {
+      -webkit-transform: rotate(0deg);
+      opacity: 1;
+    }
+    100% {
+      -webkit-transform: rotate(360deg);
+      opacity: 0;
+    }
+  }
+  
+  .removed-photo {
+    animation: spin-away 1s ease-in-out;
+    -webkit-animation: spin-away 1s ease-in-out;
+  }
+  
+  .modal-content {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: white;
+    padding: 20px;
+    border-radius: 4px;
+    max-width: 80%;
+    max-height: 80vh;
+  }
+  
+  .modal-image {
+    width: 100%;
+    height: auto;
+  }
+  
+  .modal-info {
+    margin-top: 10px;
+  }  
+  
