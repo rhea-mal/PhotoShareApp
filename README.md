@@ -38,7 +38,8 @@ User Profile Example
 <img width="1072" alt="Screenshot 2023-06-22 at 9 56 38 AM" src="https://github.com/rhea-mal/PhotoShareApp/assets/70975260/f07e6aa2-5bb6-4ce9-9a70-685384389733">
 
 User Details Sidebar + Most Liked/Commented
-<img width="1072" alt="Screenshot 2023-06-22 at 9 56 38 AM" src="https://github.com/rhea-mal/PhotoShareApp/assets/70975260/d4f10020-b7a2-42e9-9c34-5a36e9cd1b42">
+<img width="1426" alt="Screenshot 2023-06-22 at 9 57 12 AM" src="https://github.com/rhea-mal/PhotoShareApp/assets/70975260/5ff51f86-1396-4a25-a481-a4eab998b4b1">
+
 
 Initial Login Page
 <img width="1436" alt="Screenshot 2023-06-22 at 9 45 42 AM" src="https://github.com/rhea-mal/PhotoShareApp/assets/70975260/ac31dba4-a9ac-48a2-9582-173df51a49ee">
