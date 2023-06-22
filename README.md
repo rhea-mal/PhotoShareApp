@@ -34,6 +34,11 @@ Adding Comments to Other Users' Posts: Users can comment on photos uploaded by o
 
 The app utilizes the Axios library for handling API requests and responses, providing seamless communication between the front-end and back-end components.
 
+User Profile Example
+<img width="1072" alt="Screenshot 2023-06-22 at 9 56 38 AM" src="https://github.com/rhea-mal/PhotoShareApp/assets/70975260/f07e6aa2-5bb6-4ce9-9a70-685384389733">
+
+User Details Sidebar + Most Liked/Commented
+<img width="1072" alt="Screenshot 2023-06-22 at 9 56 38 AM" src="https://github.com/rhea-mal/PhotoShareApp/assets/70975260/d4f10020-b7a2-42e9-9c34-5a36e9cd1b42">
 
 Initial Login Page
 <img width="1436" alt="Screenshot 2023-06-22 at 9 45 42 AM" src="https://github.com/rhea-mal/PhotoShareApp/assets/70975260/ac31dba4-a9ac-48a2-9582-173df51a49ee">
