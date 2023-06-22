@@ -33,3 +33,6 @@ Adding Comments to Other Users' Posts: Users can comment on photos uploaded by o
 8. Login/Logout Mechanisms: Users can securely log in and out of their accounts using the provided login/logout mechanisms. This ensures account privacy and enables personalized access to features and user-specific information.
 
 The app utilizes the Axios library for handling API requests and responses, providing seamless communication between the front-end and back-end components.
+
+<img width="1436" alt="Screenshot 2023-06-22 at 9 45 42 AM" src="https://github.com/rhea-mal/PhotoShareApp/assets/70975260/ac31dba4-a9ac-48a2-9582-173df51a49ee">
+
