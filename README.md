@@ -2,11 +2,11 @@
 
 Welcome to the PhotoShare App repository! This app allows users to share and interact with photos in a social media-like environment. It includes several features such as favoriting photos, an activity feed, and extended user details.
 
-Setup
+## Setup
 Before getting started with the PhotoShare App, make sure you have the following prerequisites:
 
-MongoDB installed on your system
-Node.js installed on your system
+- MongoDB installed on your system
+- Node.js installed on your system
 If you don't have MongoDB and Node.js installed, please follow the respective installation instructions for your operating system.
 
 To set up the app, follow these steps:
@@ -20,6 +20,7 @@ Start the web server and connect to the MongoDB instance: node webServer.js
 Access the app in your browser at http://localhost:3000/photo-share.html
 
 
+# User Stories
 Here are the summaries of each user story as features of the PhotoShare App:
 
 1. Extend User Profile Detail with Usage: Users can view detailed user profiles, including the most recently uploaded photo and the photo with the most comments, and clicking on these photos navigates to the user's photo view.
